@@ -21,13 +21,6 @@
 
 ---
 
-## 📷 Demo
-
-https://github.com/abdulrahmanhamdi/pdf-summarizer/assets/demo.gif  
-> *(Replace this with a real demo GIF or screen recording)*
-
----
-
 ## 🛠️ Tech Stack
 
 | Tool/Library          | Description                         |
